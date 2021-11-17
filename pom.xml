@@ -115,6 +115,10 @@
     <genomewarpProjectName></genomewarpProjectName>
     <maven.compiler.version>3.8.1</maven.compiler.version>
 
+    <sonar.organization>albert-herbst</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
+
     <!-- Library Versions -->
     <junit.version>4.13.1</junit.version>
     <google.guava.version>29.0-jre</google.guava.version>
